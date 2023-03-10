@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **umarali1997@gmail.com**
 
-- ⚡ Fun fact **During my downtime I like to play guitar (mainly songs by Muse) and my main games I like to play are Civilization 5 and Apex Legends.**
+- ⚡ During my downtime I like to play guitar (mainly songs by Muse) and my main games I like to play are Civilization 5 and Apex Legends.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
