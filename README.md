@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a Gameboy emulator!](https://github.com/UmarAli1997/gb_emulator)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m teaching myself **Rust**
 
 - 📫 How to reach me **umarali1997@gmail.com**
 
