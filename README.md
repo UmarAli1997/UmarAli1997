@@ -7,7 +7,7 @@
 
 - 🌱 I’m teaching myself **Rust**
 
-- 📫 How to reach me **umarali1997@gmail.com**
+- 📫 Reach me at: **umarali1997@gmail.com**
 
 - ⚡ During my downtime I like to play guitar (mainly songs by Muse) and my main games I like to play are Civilization 5 and Apex Legends.
 
